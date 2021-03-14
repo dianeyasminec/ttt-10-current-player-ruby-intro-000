@@ -7,4 +7,3 @@
   counter=+1
   puts "#{counter.}"
 end
- 
